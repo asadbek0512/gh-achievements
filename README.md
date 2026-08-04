@@ -7,3 +7,4 @@ Practice repo
 
 ## Collaboration
 Paired work with @imurodl.
+Contributors: @asadbek0512, @ziyobe77
